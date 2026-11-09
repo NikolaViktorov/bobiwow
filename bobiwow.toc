@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: BobiWoW
+## Notes: Custom Azeroth Survivors Addon
+## Author: Nikola
+## Version: 0.1.0
+
+Core.lua
+Modules\Timer.lua
+Modules\CombatText.lua
