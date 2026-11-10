@@ -7,3 +7,4 @@
 Core.lua
 Modules\Timer.lua
 Modules\CombatText.lua
+Modules\CorpseTracker.lua
