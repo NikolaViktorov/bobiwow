@@ -7,7 +7,7 @@ local logoFrame = CreateFrame("Frame", "BobiWoWLogo", UIParent)
 logoFrame:SetWidth(240)
 logoFrame:SetHeight(80)
 
-logoFrame:SetPoint("TOP", UIParent, "TOP", 0, -2)
+logoFrame:SetPoint("TOP", Minimap, "BOTTOM", -30, -10)
 
 logoFrame:SetFrameStrata("HIGH")
 

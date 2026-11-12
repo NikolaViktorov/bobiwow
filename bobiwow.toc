@@ -5,6 +5,8 @@
 ## Version: 0.1.0
 
 Core.lua
-Modules\Timer.lua
 Modules\CombatText.lua
 Modules\CorpseTracker.lua
+Modules\CacheTracker.lua
+Modules\LairTracker.lua
+Modules\BossTimeline.lua
