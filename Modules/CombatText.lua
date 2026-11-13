@@ -57,7 +57,7 @@ for i = 1, MAX_ENTRIES do
 
     row.active = false
     row.elapsed = 0
-    row.startY = 180
+    row.startY = 150
 
     rows[i] = row
 end
@@ -195,7 +195,7 @@ local function SpawnDamage(group)
     end
 
     row.elapsed = 0
-    row.startY = 180
+    row.startY = 150
     row.active = true
 
     row:ClearAllPoints()

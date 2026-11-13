@@ -10,3 +10,4 @@ Modules\CorpseTracker.lua
 Modules\CacheTracker.lua
 Modules\LairTracker.lua
 Modules\BossTimeline.lua
+Modules\StatsHUD.lua
